@@ -74,10 +74,10 @@ def create_page_structure(ai_tool, page_name):
     print(f"  - Creating: {path}")
 
     # 创建核心文件
-    with open(os.path.join(path, "index.html"), "w") as f:
+    with open(os.path.join(path, "index.html"), "w",encoding='utf-8') as f:
         f.write("")
 
-    with open(os.path.join(assets_path, "style.css"), "w") as f:
+    with open(os.path.join(assets_path, "style.css"), "w", encoding='utf-8') as f:
         f.write("/* AI-generated CSS content goes here */")
 
     # 创建并写入README文件
