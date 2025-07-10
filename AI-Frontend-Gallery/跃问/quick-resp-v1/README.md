@@ -1,6 +1,6 @@
 # Quick Resp V1
 
-* **AI Tool:** Ô¾ÎÊ
+* **AI Tool:** è·ƒé—®
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/Ô¾ÎÊ/quick-resp-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/è·ƒé—®/quick-resp-v1/)

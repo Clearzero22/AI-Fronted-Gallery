@@ -1,6 +1,6 @@
 # Biz Scene V1
 
-* **AI Tool:** ��СӦ
+* **AI Tool:** 百小应
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/��СӦ/biz-scene-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/百小应/biz-scene-v1/)

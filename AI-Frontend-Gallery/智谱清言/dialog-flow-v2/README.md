@@ -1,6 +1,6 @@
 # Dialog Flow V2
 
-* **AI Tool:** ÖÇÆ×ÇåÑÔ
+* **AI Tool:** æ™ºè°±æ¸…è¨€
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÖÇÆ×ÇåÑÔ/dialog-flow-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/æ™ºè°±æ¸…è¨€/dialog-flow-v2/)

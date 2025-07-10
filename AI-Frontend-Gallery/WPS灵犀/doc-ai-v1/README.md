@@ -1,6 +1,6 @@
 # Doc Ai V1
 
-* **AI Tool:** WPSÁéÏ¬
+* **AI Tool:** WPSçµçŠ€
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/WPSÁéÏ¬/doc-ai-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/WPSçµçŠ€/doc-ai-v1/)

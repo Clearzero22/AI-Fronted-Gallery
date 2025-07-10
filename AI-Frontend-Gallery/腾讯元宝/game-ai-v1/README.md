@@ -1,6 +1,6 @@
 # Game Ai V1
 
-* **AI Tool:** 腾讯元宝
+* **AI Tool:** 鑵捐鍏冨疂
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/腾讯元宝/game-ai-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/鑵捐鍏冨疂/game-ai-v1/)

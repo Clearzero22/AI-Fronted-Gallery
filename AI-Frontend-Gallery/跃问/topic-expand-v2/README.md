@@ -1,6 +1,6 @@
 # Topic Expand V2
 
-* **AI Tool:** Ô¾ÎÊ
+* **AI Tool:** è·ƒé—®
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/Ô¾ÎÊ/topic-expand-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/è·ƒé—®/topic-expand-v2/)

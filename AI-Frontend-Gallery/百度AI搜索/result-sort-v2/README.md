@@ -1,6 +1,6 @@
 # Result Sort V2
 
-* **AI Tool:** °Ù¶ÈAIËÑË÷
+* **AI Tool:** ç™¾åº¦AIæœç´¢
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/°Ù¶ÈAIËÑË÷/result-sort-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ç™¾åº¦AIæœç´¢/result-sort-v2/)

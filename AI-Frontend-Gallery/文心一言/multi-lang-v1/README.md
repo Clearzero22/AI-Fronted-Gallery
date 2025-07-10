@@ -1,6 +1,6 @@
 # Multi Lang V1
 
-* **AI Tool:** ÎÄÐÄÒ»ÑÔ
+* **AI Tool:** æ–‡å¿ƒä¸€è¨€
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÎÄÐÄÒ»ÑÔ/multi-lang-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/æ–‡å¿ƒä¸€è¨€/multi-lang-v1/)

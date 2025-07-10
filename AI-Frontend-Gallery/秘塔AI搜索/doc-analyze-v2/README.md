@@ -1,6 +1,6 @@
 # Doc Analyze V2
 
-* **AI Tool:** ÃØËşAIËÑË÷
+* **AI Tool:** ç§˜å¡”AIæœç´¢
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÃØËşAIËÑË÷/doc-analyze-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ç§˜å¡”AIæœç´¢/doc-analyze-v2/)

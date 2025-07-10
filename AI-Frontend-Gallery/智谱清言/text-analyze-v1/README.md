@@ -1,6 +1,6 @@
 # Text Analyze V1
 
-* **AI Tool:** ÖÇÆ×ÇåÑÔ
+* **AI Tool:** æ™ºè°±æ¸…è¨€
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÖÇÆ×ÇåÑÔ/text-analyze-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/æ™ºè°±æ¸…è¨€/text-analyze-v1/)

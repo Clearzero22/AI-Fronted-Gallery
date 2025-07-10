@@ -4,6 +4,64 @@ import shutil
 # 定义项目的根目录
 base_path = "AI-Frontend-Gallery"
 
+# AI Tools
+
+ai_tools = {
+    "gpt-4": "GPT-4",
+    "midjourney": "Midjourney",
+    "claude-3": "Claude 3",
+    "doubao": "豆包",
+    "chatgpt": "ChatGPT",
+    "gemini": "Gemini",
+    "siliconflow": "SiliconFlow",
+    "deepseek": "DeepSeek",
+    "wanzhi": "万知",
+    "zhipuqinyan": "智谱清言",
+    "kimi": "Kimi",
+    "baixiaoying": "百小应",
+    "tongyiqianwen": "通义千问",
+    "yuewen": "跃问",
+    "cici": "Cici",
+    "hailuo": "海螺",
+    "groq": "Groq",
+    "claude": "Claude",
+    "wenxinyiyan": "文心一言",
+    "baidu-ai-search": "百度AI搜索",
+    "tencent-yuanbao": "腾讯元宝",
+    "shangliang": "商量",
+    "sparkdesk": "SparkDesk",
+    "mita-ai-search": "秘塔AI搜索",
+    "poe": "Poe",
+    "perplexity": "Perplexity",
+    "dev": "DEV_",
+    "tiangong-ai": "天工AI",
+    "huggingchat": "HuggingChat",
+    "felo": "Felo",
+    "duckduckgo": "DuckDuckGo",
+    "bolt": "bolt",
+    "nami-ai": "纳米AI",
+    "nami-ai-search": "纳米AI搜索",
+    "thinkany": "ThinkAny",
+    "hika": "Hika",
+    "github-copilot": "GitHub Copilot",
+    "genspark": "Genspark",
+    "qwenlm": "QwenLM",
+    "flowith": "Flowith",
+    "3mintop": "3MinTop",
+    "ai-studio": "AI Studio",
+    "xiaoyi": "小艺",
+    "notebooklm": "NotebookLM",
+    "coze": "Coze",
+    "dify": "Dify",
+    "wps-lingxi": "WPS灵犀",
+    "lechat": "LeChat",
+    "abacus": "Abacus",
+    "lambda-chat": "Lambda Chat",
+    "monica": "Monica",
+    "you": "You",
+    "zhihu-zhida": "知乎直答"
+}
+
 # 定义要生成的AI工具和页面
 pages = {
     "gpt-4": ["landing-page-v1", "dashboard-ui-v2"],
@@ -100,7 +158,7 @@ def create_page_structure(ai_tool, page_name):
 
 [Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/{ai_tool}/{page_name}/)
 """
-    with open(os.path.join(path, "README.md"), "w") as f:
+    with open(os.path.join(path, "README.md"), "w", encoding='utf-8') as f:
         f.write(readme_content)
 
 def generate_main_readme():

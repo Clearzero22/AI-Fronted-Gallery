@@ -1,6 +1,6 @@
 # Legal Search V1
 
-* **AI Tool:** ÃØËşAIËÑË÷
+* **AI Tool:** ç§˜å¡”AIæœç´¢
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÃØËşAIËÑË÷/legal-search-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ç§˜å¡”AIæœç´¢/legal-search-v1/)

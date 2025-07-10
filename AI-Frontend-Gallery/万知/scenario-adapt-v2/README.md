@@ -1,6 +1,6 @@
 # Scenario Adapt V2
 
-* **AI Tool:** 万知
+* **AI Tool:** 涓囩煡
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/万知/scenario-adapt-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/涓囩煡/scenario-adapt-v2/)

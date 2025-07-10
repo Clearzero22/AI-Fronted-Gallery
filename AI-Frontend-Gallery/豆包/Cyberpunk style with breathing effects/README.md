@@ -1,6 +1,6 @@
 # Cyberpunk Style With Breathing Effects
 
-* **AI Tool:** ¶¹°ü
+* **AI Tool:** è±†åŒ…
 * **Version:** Cyberpunk style with breathing effects
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/¶¹°ü/Cyberpunk style with breathing effects/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/è±†åŒ…/Cyberpunk style with breathing effects/)

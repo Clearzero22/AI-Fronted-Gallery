@@ -1,6 +1,6 @@
 # Topic Answer V2
 
-* **AI Tool:** 知乎直答
+* **AI Tool:** 鐭ヤ箮鐩寸瓟
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/知乎直答/topic-answer-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/鐭ヤ箮鐩寸瓟/topic-answer-v2/)

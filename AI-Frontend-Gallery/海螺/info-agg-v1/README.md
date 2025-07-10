@@ -1,6 +1,6 @@
 # Info Agg V1
 
-* **AI Tool:** º£ÂÝ
+* **AI Tool:** æµ·èžº
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/º£ÂÝ/info-agg-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/æµ·èžº/info-agg-v1/)

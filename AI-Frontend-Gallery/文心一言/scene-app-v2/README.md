@@ -1,6 +1,6 @@
 # Scene App V2
 
-* **AI Tool:** ÎÄÐÄÒ»ÑÔ
+* **AI Tool:** æ–‡å¿ƒä¸€è¨€
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÎÄÐÄÒ»ÑÔ/scene-app-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/æ–‡å¿ƒä¸€è¨€/scene-app-v2/)

@@ -1,6 +1,6 @@
 # Creative Write V2
 
-* **AI Tool:** 通义千问
+* **AI Tool:** 閫氫箟鍗冮棶
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/通义千问/creative-write-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/閫氫箟鍗冮棶/creative-write-v2/)

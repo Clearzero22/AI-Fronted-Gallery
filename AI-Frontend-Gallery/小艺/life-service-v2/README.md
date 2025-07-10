@@ -1,6 +1,6 @@
 # Life Service V2
 
-* **AI Tool:** 小艺
+* **AI Tool:** 灏忚壓
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/小艺/life-service-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/灏忚壓/life-service-v2/)

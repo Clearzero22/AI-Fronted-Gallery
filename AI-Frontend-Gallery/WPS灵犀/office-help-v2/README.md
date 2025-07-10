@@ -1,6 +1,6 @@
 # Office Help V2
 
-* **AI Tool:** WPSÁéÏ¬
+* **AI Tool:** WPSçµçŠ€
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/WPSÁéÏ¬/office-help-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/WPSçµçŠ€/office-help-v2/)

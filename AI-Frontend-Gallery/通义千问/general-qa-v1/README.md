@@ -1,6 +1,6 @@
 # General Qa V1
 
-* **AI Tool:** 通义千问
+* **AI Tool:** 閫氫箟鍗冮棶
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/通义千问/general-qa-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/閫氫箟鍗冮棶/general-qa-v1/)

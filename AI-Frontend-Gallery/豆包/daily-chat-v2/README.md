@@ -1,6 +1,6 @@
 # Daily Chat V2
 
-* **AI Tool:** ¶¹°ü
+* **AI Tool:** è±†åŒ…
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/¶¹°ü/daily-chat-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/è±†åŒ…/daily-chat-v2/)

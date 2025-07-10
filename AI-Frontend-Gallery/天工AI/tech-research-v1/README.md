@@ -1,6 +1,6 @@
 # Tech Research V1
 
-* **AI Tool:** 天工AI
+* **AI Tool:** 澶╁伐AI
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/天工AI/tech-research-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/澶╁伐AI/tech-research-v1/)

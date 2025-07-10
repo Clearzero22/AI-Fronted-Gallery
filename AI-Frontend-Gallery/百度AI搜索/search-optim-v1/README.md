@@ -1,6 +1,6 @@
 # Search Optim V1
 
-* **AI Tool:** °Ù¶ÈAIËÑË÷
+* **AI Tool:** ç™¾åº¦AIæœç´¢
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/°Ù¶ÈAIËÑË÷/search-optim-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ç™¾åº¦AIæœç´¢/search-optim-v1/)

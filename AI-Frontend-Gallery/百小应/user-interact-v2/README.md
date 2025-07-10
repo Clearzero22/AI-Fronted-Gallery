@@ -1,6 +1,6 @@
 # User Interact V2
 
-* **AI Tool:** ��СӦ
+* **AI Tool:** 百小应
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/��СӦ/user-interact-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/百小应/user-interact-v2/)

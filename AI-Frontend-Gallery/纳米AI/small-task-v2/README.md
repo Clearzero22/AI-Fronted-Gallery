@@ -1,6 +1,6 @@
 # Small Task V2
 
-* **AI Tool:** ÄÉÃ×AI
+* **AI Tool:** çº³ç±³AI
 * **Version:** v2
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÄÉÃ×AI/small-task-v2/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/çº³ç±³AI/small-task-v2/)

@@ -1,6 +1,6 @@
 # Zhihu Qa V1
 
-* **AI Tool:** 知乎直答
+* **AI Tool:** 鐭ヤ箮鐩寸瓟
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/知乎直答/zhihu-qa-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/鐭ヤ箮鐩寸瓟/zhihu-qa-v1/)

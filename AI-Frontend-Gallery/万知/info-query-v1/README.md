@@ -1,6 +1,6 @@
 # Info Query V1
 
-* **AI Tool:** 万知
+* **AI Tool:** 涓囩煡
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/万知/info-query-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/涓囩煡/info-query-v1/)

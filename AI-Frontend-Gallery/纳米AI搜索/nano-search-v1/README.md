@@ -1,6 +1,6 @@
 # Nano Search V1
 
-* **AI Tool:** ÄÉÃ×AIËÑË÷
+* **AI Tool:** çº³ç±³AIæœç´¢
 * **Version:** v1
 
 ---
@@ -15,4 +15,4 @@
 
 ---
 
-[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/ÄÉÃ×AIËÑË÷/nano-search-v1/)
+[Live Demo on GitHub Pages](https://your-username.github.io/AI-Frontend-Gallery/çº³ç±³AIæœç´¢/nano-search-v1/)
